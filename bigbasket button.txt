@@ -1,0 +1,4 @@
+<button type="button" class="btn btn-add col-xs-9" style="width: 120px;float: none;margin: 0 auto;display: block;text-align: center" ng-click="vm.addToBasket(vm.selectedProduct);">Add <span class="bskt-icon"></span></button>
+
+https://github.com/wojodesign/simplecart-js/blob/master/simpleCart.js
+
